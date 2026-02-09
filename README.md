@@ -14,16 +14,16 @@ Robots Meet Arts brengt computationeel denken naar de lessen humane wetenschappe
 
 ## Inhoud
 
-**Vormingsmodules**
+**[Vormingsmodules](1.Vormingsmodules/)**
 Het volledige traject van 6 modules voor leerkrachten basisonderwijs, met aandacht voor pedagogische benaderingen, technische vaardigheden en inclusieve praktijken.
 
-**Pedagogische fiches**
+**[Pedagogische fiches](2.Pedagogische_fiches/)**
 29 kant-en-klare activiteiten: 8 introductiesessies en 21 vakgerichte sessies verdeeld over 7 domeinen binnen de humane wetenschappen.
 
-**Inclusieve aanpak**
+**[Inclusieve aanpak](3.Inclusieve_aanpak/)**
 Aanbevelingen om de sessies aan te passen zodat alle leerlingen volwaardig kunnen deelnemen — met aandacht voor gender, leerverschillen en culturele diversiteit.
 
-**Nieuwsbrieven**
+**[Nieuwsbrieven](4.Nieuwsbrieven/)**
 Projectnieuws, updates van de partners en verspreidingsmateriaal.
 
 **Evaluatie en overdraagbaarheid**
