@@ -26,8 +26,11 @@ Aanbevelingen om de sessies aan te passen zodat alle leerlingen volwaardig kunne
 **[Nieuwsbrieven](4.Nieuwsbrieven/)**
 Projectnieuws, updates van de partners en verspreidingsmateriaal.
 
-**Evaluatie en overdraagbaarheid**
-Goede praktijken, ervaringsverslagen en implementatierapporten ter inspiratie voor toekomstige praktijken.
+**[Goede praktijken](5.Goede_Praktijken/)**
+Rapport over goede praktijken op basis van de ervaringen en resultaten van het project.
+
+**[Volledig lesboek](RMA_LessonBook_NL.pdf)**
+Het volledige lesboek met alle opleidingsinhoud in één document.
 
 ---
 
